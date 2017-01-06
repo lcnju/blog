@@ -126,7 +126,7 @@ about:
   - type: me
     icon: icon-user
     text_value:
-    - "1994，Spring."
+    - "1994, Spring."
   - type: Github
     icon: icon-github
     text_key: Github
