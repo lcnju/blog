@@ -47,11 +47,11 @@ toolbox:
   text: 盒子
 
 search_slogan:
-  isShow: true # true|fase
+  isShow: false # true|fase
   text: Can you find the bug of world ~
 
 link_slogan:
-  isShow: true # true|fase
+  isShow: false # true|fase
   text: 交换友链可以邮件 forsigner@gmail.com
 
 
@@ -83,9 +83,9 @@ donation:
 post:
   header_align: CENTER # LEFT|CENTER
   showToc: true # true|false
-  showComments: true
+  showComments: false
   open_in_new_window: false
-  show_prev_next: true
+  show_prev_next: false
 
 # =========================================================
 # 个性化设置

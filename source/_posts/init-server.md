@@ -2,9 +2,9 @@
 title: 安装tomcat服务器
 date: 2017-01-06 20:04:59
 tags:
-- ubuntu
-- tomcat
-- hudson
+  - ubuntu
+  - tomcat
+  - hudson
 ---
 
 # 更新系统
