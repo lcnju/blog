@@ -1,7 +1,9 @@
 ---
 title: 配置hexo自动部署
 date: 2017-01-07 09:40:05
-tags: hexo hudson
+tags:
+- hexo
+- hudson
 ---
 
 # 将博客源码上传到github
