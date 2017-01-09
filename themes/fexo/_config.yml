@@ -54,7 +54,6 @@ link_slogan:
   isShow: false # true|fase
   text: 交换友链可以邮件 forsigner@gmail.com
 
-
 # set backtop show or hide
 backtop:
   home: false
@@ -76,9 +75,6 @@ donation:
     - type: 支付宝
       text: 支付宝扫一扫
       imgUrl: /images/qr-alipay.png
-
-
-
 
 post:
   header_align: CENTER # LEFT|CENTER
@@ -109,8 +105,8 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 # 第三方服务
 # =========================================================
 # Stats
-google_analytics:
-baidu_analytics:
+google_analytics: UA-90035551-1
+baidu_analytics: 832473bc198dd9a3d110b5b17b91932c
 
 # Comment service
 disqus_shortname:
