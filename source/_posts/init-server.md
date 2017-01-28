@@ -38,7 +38,7 @@ $ apt-get install tomcat7 tomcat7-admin
 $ vim /etc/tomcat7/tomcat-users.xml
 ```
 
-```xml
+```xml tomcat-users.xml
 <tomcat-users>
     <user username="admin" password="password" roles="manager-gui,admin-gui"/>
 </tomcat-users>

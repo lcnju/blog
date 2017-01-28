@@ -9,7 +9,7 @@ tags:
 # 将博客源码上传到github
 
 新建`.gitignore`文件,添加如下内容,然后将源码上传到github即可
-```gitignore
+```gitignore .gitignore
 .DS_Store
 Thumbs.db
 db.json
@@ -28,7 +28,7 @@ public/
 ```
 
 为blog文件夹添加tomcat7用户的读写权限
-```
+```bash
 # setfacl -d -R -m user:tomcat7:rwx ~/blog
 ```
 
@@ -46,8 +46,8 @@ hexo clean
 hexo g
 ```
 
-ngxin中配置hexo博客的代理.
-```nginx
+nginx中配置hexo博客的代理.
+```nginx nginx.conf
 server {
     listen 80;
 
